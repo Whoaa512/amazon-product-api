@@ -1,5 +1,5 @@
 {
-  "name": "amazon-product-api",
+  "name": "@whoaa/amazon-product-api",
   "version": "0.4.2",
   "description": "Amazon Product Advertising API client",
   "main": "./lib/index.js",
