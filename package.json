@@ -1,6 +1,6 @@
 {
   "name": "@whoaa/amazon-product-api",
-  "version": "0.4.2",
+  "version": "1.0.0",
   "description": "Amazon Product Advertising API client",
   "main": "./lib/index.js",
   "directories": {
